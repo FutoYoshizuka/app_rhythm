@@ -1,9 +1,4 @@
 sceneSetups:
-- path: Assets/Song.unity
+- path: Assets/Scenes/Title.unity
   isLoaded: 1
   isActive: 1
-  isSubScene: 0
-- path: Assets/Config.unity
-  isLoaded: 1
-  isActive: 0
-  isSubScene: 0
