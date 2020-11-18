@@ -1,0 +1,15 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/DifficultySceneManager_Back.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TitleSceneManager_Tutorial.cs" Line="8" Column="17" />
+      <File FileName="Assets/Scripts/TitleSceneManager_Start.cs" Line="13" Column="2" />
+      <File FileName="Assets/Scripts/DifficultySceneManager_Back.cs" Line="9" Column="5" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
