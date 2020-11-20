@@ -1,4 +1,6 @@
 sceneSetups:
-- path: Assets/Scenes/Title.unity
+- path: /Users/hw17a088/app_rhythm/Perform of Music/New Unity Project/.vs/New Unity
+    Project/xs/sqlite3/Perform of Music/New Unity Project/Assets/Scenes/Difficulty.unity
   isLoaded: 1
   isActive: 1
+  isSubScene: 0
