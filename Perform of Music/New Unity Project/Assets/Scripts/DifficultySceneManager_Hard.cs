@@ -6,8 +6,6 @@ using UnityEngine.SceneManagement;
 public class DifficultySceneManager_Hard : MonoBehaviour
 {
     public void TAP () {
-        if (Input.GetMouseButtonDown(0)) { //Hardがタッチされたら
-            SceneManager.LoadScene("Play"); //Playへ
-        }
+            SceneManager.LoadScene("Play");//Playへ
     }
 }
